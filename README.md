@@ -1,3 +1,5 @@
+<img width="1246" height="707" alt="image" src="https://github.com/user-attachments/assets/2716ecc5-5e76-4af0-8ae7-7549d97b28a3" />
+
 # <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" height="40" /> User Management System
 
 <p align="center">
